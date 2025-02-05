@@ -24,7 +24,7 @@ Large-scale fire emissions are *not* included in this dataset.  Users should obt
 
 ## Final EDGARv5 Emissions
 
-The final emissions provided here are the sum of emissions from all sectors for each pollutant. These totals have been converted to kg m⁻² s⁻¹.[EDGARv5](https://drive.google.com/file/d/1Ph02LR4cZe80Q-nBkVgq5hUGMmlK1lOK/edit?usp=drive_link)
+The final emissions provided here are the sum of emissions from all sectors for each pollutant. These totals have been converted to kg m⁻² s⁻¹.
 
 ## Application to the Indian Region
 
